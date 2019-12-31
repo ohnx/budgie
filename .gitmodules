@@ -1,0 +1,3 @@
+[submodule "dist/librudolph"]
+	path = dist/librudolph
+	url = https://github.com/ohnx/librudolph
